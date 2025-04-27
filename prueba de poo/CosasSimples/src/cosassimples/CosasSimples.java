@@ -16,8 +16,6 @@ public class CosasSimples {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola, me llamo Fabrizzio");
-        System.out.println("Probando el segundo commit");
-        System.out.println("Ejemplo12345678910");
     }
     
 }
