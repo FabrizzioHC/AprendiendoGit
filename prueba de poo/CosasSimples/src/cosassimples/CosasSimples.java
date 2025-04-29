@@ -17,6 +17,8 @@ public class CosasSimples {
         // TODO code application logic here
         System.out.println("Hola, me llamo Fabrizzio");
         System.out.println("Este repositoprio no es de orlandini es un repositorio de practica!!!");
+        System.out.println("Este es un repositorio de practica para aprender a usar git");
+        System.out.println("Creando mi primera Rama");
     }
     
 }
